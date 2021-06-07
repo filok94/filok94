@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @filok94
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on JS
+- 🌱 I’m currently learning JS and tryna get info for GitHub.
+- 💞️ I’m looking to collaborate on JS and Vue3 topic. 
 - 📫 How to reach me filok94@gmail.com
 
 <!---
